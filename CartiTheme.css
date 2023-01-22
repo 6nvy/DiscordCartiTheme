@@ -21,12 +21,12 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/1058128528819896412/1066781792708874280/XqntdEh.gif);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/1058128528819896412/1066783053973823528/4xngdvG.gif);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(31, 31, 31);
 
   /*
     Main Theme Transparency
@@ -65,14 +65,14 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
+  --mention-color: rgba(31, 31, 31, 0.05);
+  --mention-sider: rgba(31, 31, 31, 1);
   --mention-hover-color: rgba(250, 166, 26, 0.08);
 
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(31, 31, 31);
 
   /*
     Change the unread server animation.
